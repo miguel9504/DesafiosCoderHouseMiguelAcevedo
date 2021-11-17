@@ -1,0 +1,27 @@
+{
+  "name": "desafioscoderhousemiguelacevedo",
+  "version": "1.0.0",
+  "description": "Desafios de la plataforma Coder House",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel9504/DesafiosCoderHouseMiguelAcevedo.git"
+  },
+  "keywords": [],
+  "author": "Miguel Acevedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguel9504/DesafiosCoderHouseMiguelAcevedo/issues"
+  },
+  "homepage": "https://github.com/miguel9504/DesafiosCoderHouseMiguelAcevedo#readme",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7"
+  }
+}
